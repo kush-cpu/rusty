@@ -1,0 +1,12 @@
+D:\Rust\RustyIDE\target\debug\deps\liberror_code-b180392f93154900.rmeta: C:\Users\Dell\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\error-code-3.3.2\src\lib.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\error-code-3.3.2\src\defs.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\error-code-3.3.2\src\types.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\error-code-3.3.2\src\utils.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\error-code-3.3.2\src\posix.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\error-code-3.3.2\src\system.rs
+
+D:\Rust\RustyIDE\target\debug\deps\liberror_code-b180392f93154900.rlib: C:\Users\Dell\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\error-code-3.3.2\src\lib.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\error-code-3.3.2\src\defs.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\error-code-3.3.2\src\types.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\error-code-3.3.2\src\utils.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\error-code-3.3.2\src\posix.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\error-code-3.3.2\src\system.rs
+
+D:\Rust\RustyIDE\target\debug\deps\error_code-b180392f93154900.d: C:\Users\Dell\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\error-code-3.3.2\src\lib.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\error-code-3.3.2\src\defs.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\error-code-3.3.2\src\types.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\error-code-3.3.2\src\utils.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\error-code-3.3.2\src\posix.rs C:\Users\Dell\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\error-code-3.3.2\src\system.rs
+
+C:\Users\Dell\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\error-code-3.3.2\src\lib.rs:
+C:\Users\Dell\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\error-code-3.3.2\src\defs.rs:
+C:\Users\Dell\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\error-code-3.3.2\src\types.rs:
+C:\Users\Dell\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\error-code-3.3.2\src\utils.rs:
+C:\Users\Dell\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\error-code-3.3.2\src\posix.rs:
+C:\Users\Dell\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\error-code-3.3.2\src\system.rs:

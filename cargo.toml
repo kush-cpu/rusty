@@ -1,0 +1,10 @@
+[package]
+name = "rust_native_ide"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.26"
+egui = "0.26"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
